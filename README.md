@@ -50,11 +50,3 @@ The project demonstrates:
 - **Environment:** Jupyter Notebook  
 
 ---
-
-## 🧾 Project Structure
-📁 dog-breed-classification/
-│
-├── end-to-end-dog-vision.ipynb # Main notebook for training and evaluation
-├── requirements.txt # All dependencies
-├── README.md # Project description
-└── /dataset Placeholder for Kaggle dataset files
