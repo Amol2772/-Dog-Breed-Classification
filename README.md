@@ -50,3 +50,9 @@ The project demonstrates:
 - **Environment:** Jupyter Notebook  
 
 ---
+## 🐕 Model Prediction Results
+
+The model successfully identifies dog breeds from custom images:
+
+![Dog Breed Prediction Results](result.png)
+
