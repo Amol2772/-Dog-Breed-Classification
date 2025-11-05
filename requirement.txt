@@ -1,0 +1,7 @@
+tensorflow
+tensorflow_hub
+matplotlib
+numpy
+pandas
+tqdm
+Pillow
